@@ -1,0 +1,1 @@
+@pyw.exe C:/Users/Moz/Music/Hitmos/move_mp3.py

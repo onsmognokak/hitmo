@@ -1,0 +1,1 @@
+@py.exe C:/Users/Moz/Music/Hitmos/hitmo.py
